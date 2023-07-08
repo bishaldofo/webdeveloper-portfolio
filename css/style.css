@@ -141,4 +141,27 @@ main {
    text-align: center;
 }
 
+.about-info-container {
+   display: flex;
+   justify-content: space-around;
+   padding: 5px 0;
+}
+
+.info-title {
+   margin: 5px 0;
+}
+
+.info-description {
+   margin: 5px 0;   
+}
 /* about end */
+
+/* skill start */
+.skill {
+   text-align: center;
+}
+
+.skill-dec-padding {
+   padding: 0 110px;
+}
+/* skill end  */
