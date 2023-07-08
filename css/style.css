@@ -110,3 +110,33 @@ nav li a {
    border: 1px solid #FD6E0A;
    margin-left: 20px;
 }
+
+/* main section start */
+main {
+   padding: 200px 230px;
+}
+
+/* main end */
+
+/* about start */
+.about {
+   border-radius: 10px;
+   background: #FFF8F3;
+   padding: 156px;
+   text-align: center;
+}
+
+.about-title {
+   color: #181818;
+   font-size: 35px;
+   font-weight: 700;
+}
+
+.about-description {
+   color: #757575;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 30px;
+}
+
+/* about end */
